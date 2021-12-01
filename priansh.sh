@@ -1,1 +1,0 @@
-echo " H I PRIANSH YOU ARE COOLE"
